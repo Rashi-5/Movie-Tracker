@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Movie</string>
+    <string name="edit_movies">Edit Movies</string>
+    <string name="search">Search</string>
+    <string name="display_movies">Display Movies</string>
+    <string name="register_movie">Register Movie</string>
+    <string name="favourites">Favourites</string>
+    <string name="ratings">Ratings</string>
+    <string name="list_of_actors_actress">List of actors/actress</string>
+    <string name="title">Title</string>
+    <string name="year">Year</string>
+    <string name="director_of_the_movie">Director of the movie</string>
+    <string name="ratings_of_the_movie">Ratings of the Movie</string>
+    <string name="reviews">Reviews</string>
+    <string name="title_of_the_movie">Title Of the Movie</string>
+    <string name="_year">Year</string>
+    <string name="director">Director</string>
+    <string name="actors_actress">Actors, Actress</string>
+    <string name="_reviews">Reviews</string>
+    <string name="add_to_favourite">Add to Favourite</string>
+    <string name="save">Save</string>
+    <string name="save_changes">save_changes</string>
+    <string name="save_all">save All</string>
+    <string name="search_here">Search here</string>
+    <string name="look_up">Look Up</string>
+    <string name="edit_title">edit Title</string>
+    <string name="edit_director">Edit Director</string>
+    <string name="edit_actors">Edit Actors</string>
+    <string name="edit_reviews">Edit Reviews</string>
+    <string name="update">Update</string>
+    <string name="favourite_or_not">Favourite OR not</string>
+    <string name="find_in_imdb">Find In IMDB</string>
+    <string name="close">Close</string>
+    <string name="movie_tracker">Movie Tracker</string>
+</resources>
